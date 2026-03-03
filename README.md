@@ -1,25 +1,17 @@
 # moltis-stuff
 
-🛠️ A collection of shareable Moltis resources: SKILLS, guides, tools, and utilities.
+Shared Moltis skills, documentation, and tools.
 
 ## Contents
 
-- `skills/` - Reusable Moltis skill definitions
-- `docs/` - Guides and documentation
-- `tools/` - Helper scripts and utilities
+- **skills/** - Reusable Moltis skill definitions
+- **docs/** - Guides and reference material
+- **tools/** - Helper scripts and utilities
 
 ## Usage
 
-Clone and copy the skills you need into your Moltis installation:
-
-```bash
-cp -r skills/* /root/.moltis/skills/
-```
+Skills in this repository can be imported into your Moltis installation.
 
 ## Contributing
 
 Feel free to submit issues and pull requests!
-
-## License
-
-MIT
