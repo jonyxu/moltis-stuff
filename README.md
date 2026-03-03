@@ -2,6 +2,16 @@
 
 Shared Moltis skills, documentation, and tools.
 
+**Official Moltis Repository**: https://github.com/moltis-org/moltis
+
+## 🇨🇳 Chinese Documentation
+
+本项目提供完整的中文文档，包含所有功能介绍和使用说明。
+
+👉 查看中文版： [docs/README_zh.md](docs/README_zh.md)
+
+---
+
 ## 📖 Contents
 
 - **skills/** - Reusable Moltis skill definitions
@@ -29,8 +39,6 @@ Secure version update tool for Moltis
 ## 🚀 Usage
 
 Skills in this repository can be imported into your Moltis installation.
-
-> **Note:** For Chinese documentation, see [docs/README_zh.md](docs/README_zh.md)
 
 ## 🤝 Contributing
 
